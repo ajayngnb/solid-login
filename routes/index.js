@@ -14,7 +14,7 @@ router.post('/login', (req, res, next) => {
     console.log('Logging in')
     // var idp ="https://solid.community"
     // var username = "ajaykumard"
-    // var pass = "Nothing@00"
+    // var pass = "<password>"
     var cred = {
         idp: "https://solid.community",
         username: "ajaykumard",
